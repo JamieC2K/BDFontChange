@@ -35,12 +35,9 @@
     "PLUM_20": "#000000"
   },
   "fonts":{
-  "NotoSans-Bold": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
-  "NotoSans-ExtraBold": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
-  "NotoSans-Medium": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
-  "NotoSans-Normal": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
-  "NotoSans-NormalItalic": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
-  "NotoSans-Semibold": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf"
+  "NotoColorEmoji": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "NotoColorEmojiFlags": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "NotoColorEmojiLegacy": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf"
  },
   "plus": {
     "version": "0",
