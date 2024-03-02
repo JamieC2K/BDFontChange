@@ -1,0 +1,61 @@
+{
+  "name": "IOS-Emojis",
+  "description": "IOS emojis added to Mylloons System Black Theme for Revenge",
+  "authors": [
+    {
+      "name": "JamieC2K",
+      "id": "825803913462284328"
+    },
+    {
+      "name": "Mylloon",
+      "id": "158260864623968257"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#000000"],
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_ACCENT": ["#08080A"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
+    "SPOILER_REVEALED_BACKGROUND": ["#232428"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    "BACKGROUND_SECONDARY_ALT": ["#000000"],
+    "ANDROID_NAVIGATION_BAR_BACKGROUND": ["#000000"]
+  },
+  "rawColors": {
+    "PRIMARY_560": "#08080A",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_660": "#08080A",
+    "PRIMARY_700": "#08080A",
+    "PRIMARY_800": "#08080A",
+
+    "PLUM_17": "#000000",
+    "PLUM_18": "#08080A",
+    "PLUM_20": "#000000"
+  },
+  "fonts":{
+  "ABCGintoNord-ExtraBold": "https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "ggsans-Bold": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "ggsans-BoldItalic": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "ggsans-ExtraBold": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "ggsans-ExtraBoldItalic": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "ggsans-Medium": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "ggsans-MediumItalic": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "ggsans-Normal": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "ggsans-NormalItalic": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "ggsans-Semibold": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "ggsans-SemiboldItalic": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "NotoSans-Bold": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "NotoSans-ExtraBold": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "NotoSans-Medium": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "NotoSans-Normal": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "NotoSans-NormalItalic": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "NotoSans-Semibold": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf",
+  "SourceCodePro-Semibold": " https://github.com/Keinta15/Magisk-iOS-Emoji/raw/main/system/fonts/NotoColorEmoji.ttf"
+ },
+  "plus": {
+    "version": "0",
+    "iconpack": "md3"
+  }
+}
